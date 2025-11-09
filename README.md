@@ -11,7 +11,7 @@ The AI Health Assistant is an interactive web application built using TensorFlow
 
 It uses a deep learning classifier trained on synthetic health data, achieving around 95% accuracy.
 
-🚀 Features
+2) 🚀 Features
 
 ✅ Predicts health condition as Healthy, At Risk, or Disease
 
@@ -26,7 +26,7 @@ It uses a deep learning classifier trained on synthetic health data, achieving a
 ✅ Clean modular code for educational and deployment use
 
 
-🧩 Tech Stack
+3) 🧩 Tech Stack
 
 Category	Tools & Libraries
 
@@ -41,7 +41,7 @@ Visualization	Matplotlib, Seaborn
 Utilities	Joblib
 
 
-🧠 Model Architecture
+4) 🧠 Model Architecture
 
 Model Summary:
 
@@ -66,7 +66,7 @@ EarlyStopping + ReduceLROnPlateau
 Accuracy: ~95%
 
 
-📊 Example Output
+5) 📊 Example Output
 
 
 Prediction:
@@ -78,13 +78,13 @@ Confidence: 87.6%
 
 
 
-Visualization:
+6) Visualization:
 
 
 Displays a real-time bar chart showing prediction confidence across all classes.
 
 
-👨‍💻 About Developer
+7) 👨‍💻 About Developer
 
 
 Name: Dinesh Reddy
